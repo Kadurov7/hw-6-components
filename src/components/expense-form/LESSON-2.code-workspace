@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../.."
+	},
+	{
+		"path": "../../../../../Practic"
+	},
+	{
+		"path": "../../../../../HW/hw-1"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "hw-1"
+  }
+}
